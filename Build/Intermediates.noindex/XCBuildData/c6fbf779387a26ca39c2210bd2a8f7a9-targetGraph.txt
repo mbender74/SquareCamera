@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+SquareCamera in SquareCamera, no dependencies
+Build & Test in SquareCamera, depends on:
+SquareCamera in SquareCamera (explicit)
